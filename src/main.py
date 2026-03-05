@@ -1,4 +1,5 @@
 from textnode import TextNode, TextType
+from htmlnode import HtmlNode, HtmlType
 
 print("hello world")
 
